@@ -40,6 +40,6 @@ It validates Ethereum addresses and skips any invalid addresses.
 - Bottleneck - Powerful rate-limiter; roll-your-own logic allows you to manage multiple limiters with the same or different options and bucketing methods.
 - node-fetch - A light-weight module that brings window.fetch to Node.js.
 - cli-progress - A flexible progress bar for command line interfaces.
-- 
+
 ## License
 This project is licensed under the MIT License.
