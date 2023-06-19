@@ -1,0 +1,19 @@
+{
+  "name": "airdrop-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "cli-progress": "^3.12.0",
+    "node-fetch": "^3.3.1"
+  }
+}
