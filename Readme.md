@@ -8,7 +8,7 @@ This is a Node.js script that fetches airdrop data from airdrops.fyi for a list 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-github-username/airdrop-checker.git
+git clone https://github.com/nic3rafs/airdrop-checker.git
 ```
 2. Navigate to the project directory
 ```bash
